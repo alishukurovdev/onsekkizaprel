@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\SecondFirstHome\bin\Debug\net6.0\SecondFirstHome.exe
+C:\Users\hp\source\repos\SecondFirstHome\bin\Debug\net6.0\SecondFirstHome.deps.json
+C:\Users\hp\source\repos\SecondFirstHome\bin\Debug\net6.0\SecondFirstHome.runtimeconfig.json
+C:\Users\hp\source\repos\SecondFirstHome\bin\Debug\net6.0\SecondFirstHome.dll
+C:\Users\hp\source\repos\SecondFirstHome\bin\Debug\net6.0\SecondFirstHome.pdb
+C:\Users\hp\source\repos\SecondFirstHome\obj\Debug\net6.0\SecondFirstHome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\SecondFirstHome\obj\Debug\net6.0\SecondFirstHome.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\SecondFirstHome\obj\Debug\net6.0\SecondFirstHome.AssemblyInfo.cs
+C:\Users\hp\source\repos\SecondFirstHome\obj\Debug\net6.0\SecondFirstHome.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\SecondFirstHome\obj\Debug\net6.0\SecondFirstHome.dll
+C:\Users\hp\source\repos\SecondFirstHome\obj\Debug\net6.0\refint\SecondFirstHome.dll
+C:\Users\hp\source\repos\SecondFirstHome\obj\Debug\net6.0\SecondFirstHome.pdb
+C:\Users\hp\source\repos\SecondFirstHome\obj\Debug\net6.0\SecondFirstHome.genruntimeconfig.cache
+C:\Users\hp\source\repos\SecondFirstHome\obj\Debug\net6.0\ref\SecondFirstHome.dll
